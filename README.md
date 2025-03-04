@@ -170,6 +170,15 @@ Test Driven Development
 
 
 
+### Reading: Introduction to Tekton and Pipelines 
+![image](https://github.com/user-attachments/assets/2b50978b-fc20-4465-a73e-47d43d0d4a1d) *
+![image](https://github.com/user-attachments/assets/283acdc3-30d9-4676-a7ad-3596e0ee187b)
+
+![image](https://github.com/user-attachments/assets/11d6557d-859d-4c6b-b095-e0fdd46fb298)
+![image](https://github.com/user-attachments/assets/ae6d3148-eb75-4781-993a-fb4620dc91cc)
+
+![image](https://github.com/user-attachments/assets/b4d830df-1231-4ad0-95ea-d93b445e3427)
+![image](https://github.com/user-attachments/assets/7769f31f-61ce-405c-b5ba-33d2dd1430ab)
 
 
 
