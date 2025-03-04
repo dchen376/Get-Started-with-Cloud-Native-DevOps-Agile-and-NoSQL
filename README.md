@@ -180,7 +180,12 @@ Test Driven Development
 ![image](https://github.com/user-attachments/assets/b4d830df-1231-4ad0-95ea-d93b445e3427)
 ![image](https://github.com/user-attachments/assets/7769f31f-61ce-405c-b5ba-33d2dd1430ab)
 
+### Everyone is Responsible for Success
+![image](https://github.com/user-attachments/assets/d3d19ed5-9bdf-4803-b6c2-0d5291a600df)
+![image](https://github.com/user-attachments/assets/40f82634-61dc-4ba2-ac14-142e84767ccf)
 
+- local control *
+  ![image](https://github.com/user-attachments/assets/f4104757-c260-4911-a178-255520412329)
 
 
 
