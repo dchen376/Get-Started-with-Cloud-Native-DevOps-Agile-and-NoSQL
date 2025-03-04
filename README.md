@@ -115,7 +115,58 @@ https://www.coursera.org/learn/cloud-native-devops-agile-nosql
 ![image](https://github.com/user-attachments/assets/181c41fd-88bd-4e9f-9264-58a09a1c6a73)
 ![image](https://github.com/user-attachments/assets/5d27fe73-62cd-4bc2-ace9-ba0e5bab0a29)
 
+Test Driven Development
+![image](https://github.com/user-attachments/assets/a689cb39-b9be-41c3-bf7e-b93d72b7bd10)
+![image](https://github.com/user-attachments/assets/468b5993-29d5-417a-bfdc-b2fc044f39e6)
 
+![image](https://github.com/user-attachments/assets/85c89b03-f8c4-4b31-b2f2-1b62e0a314ac)
+![image](https://github.com/user-attachments/assets/593caa61-2521-4871-a004-c2a34512c862)
+
+### Behavior Driven Development (BDD)
+![image](https://github.com/user-attachments/assets/dd9e07ce-3358-4000-9808-3abadbd48fcb)
+(higher level testing)
+
+#### software testing levels
+![image](https://github.com/user-attachments/assets/751bc562-2687-4d4f-bd8d-008767a90231)
+
+### What Is CI/CD?
+![image](https://github.com/user-attachments/assets/e96b9c51-ea35-466b-a9f6-dc7b49ee02d5)
+![image](https://github.com/user-attachments/assets/8eba4086-480d-46e3-baa9-bb0940c2ba39)
+
+![image](https://github.com/user-attachments/assets/a6a38f9d-d0d0-4f69-acf8-2d8c20acb623)
+
+#### DevOps pipeline
+![image](https://github.com/user-attachments/assets/6169bd57-7df0-4fb2-aab4-e060b7195b54)
+
+
+### Benefits of CI
+
+#### code reviews
+![image](https://github.com/user-attachments/assets/88314bb3-db46-4a2a-ac31-5ed68f477511)
+
+
+### Tools for DevOps, CI and CD
+![image](https://github.com/user-attachments/assets/6576f318-d8e2-4dcf-be8b-e841ef622633)
+
+#### devOps tools
+![image](https://github.com/user-attachments/assets/8648c179-a46f-4981-9711-61e6f5d0ec7e)
+![image](https://github.com/user-attachments/assets/cd6a800f-c873-4961-a658-ec2e97a068cb)
+![image](https://github.com/user-attachments/assets/d719aeec-483e-4f0b-8bb4-52fdb6b7b099)
+
+![image](https://github.com/user-attachments/assets/a9309e01-2b9e-42e0-9f25-efebddee06a8)
+![image](https://github.com/user-attachments/assets/4b52d5b7-4c89-4dc3-9799-e80bb744ad78) *
+![image](https://github.com/user-attachments/assets/e2137d03-51e4-4421-8a4a-81fe62154bb4)
+![image](https://github.com/user-attachments/assets/89a08c9d-5b0a-4163-bead-fa61dea1b0e2)
+
+![image](https://github.com/user-attachments/assets/cfa45e9b-ff81-4cb9-9dbf-9edf51a8697f)
+![image](https://github.com/user-attachments/assets/5d730bf6-f3ba-4cf3-b46a-fffa922bc190)
+
+![image](https://github.com/user-attachments/assets/33840fee-eedf-4c1d-bad9-065528182909)
+![image](https://github.com/user-attachments/assets/32bad548-4713-4699-a3b1-14b6f122bd6d)
+
+- other tools
+  ![image](https://github.com/user-attachments/assets/f63e20b6-4ed0-4ba4-9413-9a0638cf9ff3)
+![image](https://github.com/user-attachments/assets/7fe40cad-4d25-4c14-be11-044fe4139334) *
 
 
 
