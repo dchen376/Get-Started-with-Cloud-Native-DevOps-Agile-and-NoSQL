@@ -191,6 +191,154 @@ Test Driven Development
 
 
 ## M3 - Agile & Scrum
+![image](https://github.com/user-attachments/assets/67603701-9de2-4a4e-9322-400e8f17137a)
+
+### Introduction to Agile Development and Scrum
+![image](https://github.com/user-attachments/assets/f21fbf38-b71a-4e4a-84c8-985dd0e035c5)
+
+### Agile Principles
+![image](https://github.com/user-attachments/assets/99f50926-ee40-4464-812a-3a08035246fe)
+![image](https://github.com/user-attachments/assets/ca86b686-2418-4f6d-9e48-3eba690079d5)
+
+![image](https://github.com/user-attachments/assets/a32e75d3-70cf-4e6b-bc46-b09b57db209c)
+![image](https://github.com/user-attachments/assets/990aa02b-e97b-4249-a8f7-5feda58447ae)
+![image](https://github.com/user-attachments/assets/6a20463a-2f92-47f1-abc3-dc642c375c39)
+
+### Scrum Overview
+![image](https://github.com/user-attachments/assets/e4355bc4-0f8e-4720-b015-51277967fcc4)
+![image](https://github.com/user-attachments/assets/a67d345a-07e5-4ba4-ae63-4b055bd4442f)
+
+![image](https://github.com/user-attachments/assets/842aac03-5ae8-400c-9e66-8af82dbfedd6)
+- sprints *
+![image](https://github.com/user-attachments/assets/ecd5b914-f930-4755-94bf-a624e762cd34)
+![image](https://github.com/user-attachments/assets/8c6884b3-fa1d-4585-902c-f0548155e866)
+
+#### Sprint
+![image](https://github.com/user-attachments/assets/63bf08e5-c278-4ad5-b892-b3f232697ffc)
+
+#### Scrum process
+- backlog *
+![image](https://github.com/user-attachments/assets/322999c7-9ca4-4fdc-887e-7ec1e7ebdc60)
+
+- agile development
+  ![image](https://github.com/user-attachments/assets/dd39d84d-3f47-4930-b2c8-deebc23c3970)
+
+
+### Organizational impact of Agile
+![image](https://github.com/user-attachments/assets/70e01087-49d7-4e66-ba2b-b78a2670292a)
+
+- organized
+![image](https://github.com/user-attachments/assets/833c93c7-7e41-4dc7-ad67-21b99f552eec)
+
+- autonomy
+  ![image](https://github.com/user-attachments/assets/6ffac09d-bd45-42f2-bf5d-4a10079597e4)
+
+- agile dilemma
+  ![image](https://github.com/user-attachments/assets/b2823a5d-5e0e-4d15-873a-1915268f6b8d)
+
+
+- example (full time needs be agile)
+  ![image](https://github.com/user-attachments/assets/6b92ac0b-2d1b-4b9d-ab19-9fc06d1212ad)
+![image](https://github.com/user-attachments/assets/55b907a7-4e70-4cc3-ab00-b5ee8b8726d3)
+
+### Mistaking Iterative Development for Agile
+![image](https://github.com/user-attachments/assets/872f46cb-7727-4531-862b-c4cd152731e1)
+
+- (not actually being agile)
+  ![image](https://github.com/user-attachments/assets/86b24106-e88a-4fce-a977-f1bf4e887e05)
+![image](https://github.com/user-attachments/assets/b69dad1a-ad93-4feb-9b0b-911be891db94)
+
+![image](https://github.com/user-attachments/assets/61f93b2b-b8a4-42b2-854d-60cd3d4bdeac)
+
+
+### Destination Unknown
+![image](https://github.com/user-attachments/assets/4a366480-7ced-4b0d-9a0c-e5fe7ffb51c6)
+
+- iterative planning *
+![image](https://github.com/user-attachments/assets/067e951e-b92d-45e4-b7a5-905f811ca72f)
+
+
+### Agile Roles and the Need for Training
+![image](https://github.com/user-attachments/assets/112dfdb4-4efe-4694-8d69-77d8897d11c6)
+![image](https://github.com/user-attachments/assets/3d705186-ce22-4f23-a020-9e47ba456b5c)
+
+![image](https://github.com/user-attachments/assets/3fbf177c-2837-4e4c-a325-f7b29a80e647)
+
+![image](https://github.com/user-attachments/assets/14897bc3-f0eb-4738-a906-2b6c9c29f271)
+
+![image](https://github.com/user-attachments/assets/d8d4ec75-2a16-4027-b6ef-66e2dd8cf016)
+
+![image](https://github.com/user-attachments/assets/0b5025f1-cb74-4231-a86d-555c46f0adcb)
+
+![image](https://github.com/user-attachments/assets/24352ef7-ab93-4a10-9fc3-6fb625538938)
+
+
+### Creating Good User Stories
+![image](https://github.com/user-attachments/assets/bc5e0187-8cfe-4e7d-b03d-60bd7d04660f)
+
+- user story *
+![image](https://github.com/user-attachments/assets/167e664e-e5c9-4a1a-91f5-ccaf6018a452)
+![image](https://github.com/user-attachments/assets/c258dd7c-c14b-4dbe-8d61-8549248a8212)
+![image](https://github.com/user-attachments/assets/167c5fa0-6cf4-4f82-9ab0-f741fcd841d3)
+
+![image](https://github.com/user-attachments/assets/a6e1d065-d5e7-42a3-bb1e-e9df65172c4a)
+
+- acceprance criteria *
+  ![image](https://github.com/user-attachments/assets/cb931e11-cf9c-40a3-b01c-803b88b12365)
+
+- sample story
+![image](https://github.com/user-attachments/assets/942e6d7f-79a3-4ce7-803f-3c8ae138f053)
+
+- INVEST *
+![image](https://github.com/user-attachments/assets/c7b7cb71-592f-4a67-ad5e-ecedb479d7a2)
+
+- Epic (reakkt big idea)*
+  ![image](https://github.com/user-attachments/assets/509e3e63-1530-444b-bb46-016f722ab09f)
+![image](https://github.com/user-attachments/assets/cfab2f3b-6816-431e-8732-054beb8e5752)
+
+![image](https://github.com/user-attachments/assets/baaa8792-056a-405d-89aa-3b162400b908)
+
+### Effectively using Story Points
+![image](https://github.com/user-attachments/assets/26f5d12f-4c07-4636-96c1-bdf8bd02eb4b) *
+![image](https://github.com/user-attachments/assets/48177e38-9d9f-488e-a785-227bff703876)
+![image](https://github.com/user-attachments/assets/81554b61-25f2-4455-a6b5-b8b478c5c44a) *
+
+- relative t-shirt sizes
+![image](https://github.com/user-attachments/assets/18920abe-2f82-470a-943d-9e6d0e4ba9d4)
+
+- 'medium'
+![image](https://github.com/user-attachments/assets/eb860a86-ae9a-49e8-9ee4-7a12c673f03d)
+![image](https://github.com/user-attachments/assets/a638b7d5-99e3-49df-8f4b-0c10939ed2ea)
+
+- story size (couple days)
+  ![image](https://github.com/user-attachments/assets/4e27165b-2a98-4e7a-8834-dde0ee7f21f5)
+
+- story point anti-pattern
+  ![image](https://github.com/user-attachments/assets/80a21ff3-cb03-4420-8d1f-bc6bcb00e616)
+
+### Building the Product Backlog
+![image](https://github.com/user-attachments/assets/ed61994f-faa0-4ce3-bba1-3b973ef554bf)
+
+![image](https://github.com/user-attachments/assets/ea0ab2d3-6882-4624-8e59-01d0abd0ee10)
+![image](https://github.com/user-attachments/assets/bef9c5b5-2142-4638-87f6-895f4488ce3d)
+
+- stories in the backlog
+![image](https://github.com/user-attachments/assets/f06a56a4-ed02-4d7d-9a04-2f61f5f7e5db)
+![image](https://github.com/user-attachments/assets/230f1052-1757-4b2c-8219-034ee844e035)
+
+- prioritize the product backlog
+![image](https://github.com/user-attachments/assets/c439fdee-e1e0-4a41-8fc7-bbd1d3622811)
+![image](https://github.com/user-attachments/assets/03f00fbf-516e-456c-89d7-75727161c638)
+![image](https://github.com/user-attachments/assets/18bd013a-722f-4985-acdf-adc1068f76bd)
+
+
+
+
+
+
+
+
+
 
 
 ## M4 - NoSQL Databases in Cloud
