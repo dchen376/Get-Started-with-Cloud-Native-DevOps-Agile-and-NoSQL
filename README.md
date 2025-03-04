@@ -86,6 +86,43 @@ https://www.coursera.org/learn/cloud-native-devops-agile-nosql
 
 
 ## M2 - DevOps & CI/CD
+![image](https://github.com/user-attachments/assets/78af6409-8d1d-4535-ae6e-24f714d33ada)
+
+### Introduction to DevOps & CI/CD
+![image](https://github.com/user-attachments/assets/85080464-12b8-4e2a-ae87-520edda238be)
+![image](https://github.com/user-attachments/assets/f98fecef-e00e-4714-b0fb-a2463e61be8e)
+![image](https://github.com/user-attachments/assets/b88d1be1-7d71-4892-a2d6-a96be7b3da38)
+
+#### CI/CD
+![image](https://github.com/user-attachments/assets/165e53fd-f00b-4840-8037-07c957eb12a1)
+
+![image](https://github.com/user-attachments/assets/cc0e1e0a-394b-49d7-a6b9-12bbabaa7782)
+
+![image](https://github.com/user-attachments/assets/cc84b6c1-428c-470d-b360-78e2dca74b55)
+
+### Definition of DevOps
+![image](https://github.com/user-attachments/assets/77b770fc-bb92-4d36-a435-dac079fb9955)
+![image](https://github.com/user-attachments/assets/eebda4fc-e528-4bcc-906b-ad3f1c80f1c6)
+
+![image](https://github.com/user-attachments/assets/22168e1d-367f-41f5-8fc0-005cf0b4b3f3) *lean
+
+- DevOps requires
+![image](https://github.com/user-attachments/assets/f1e8b62c-8d4b-41aa-8700-e4a6ed3545be)
+
+![image](https://github.com/user-attachments/assets/5f35ad17-33a1-41cc-9415-0f19f53ceb09)
+
+### Essential Characteristics of DevOps
+![image](https://github.com/user-attachments/assets/181c41fd-88bd-4e9f-9264-58a09a1c6a73)
+![image](https://github.com/user-attachments/assets/5d27fe73-62cd-4bc2-ace9-ba0e5bab0a29)
+
+
+
+
+
+
+
+
+
 
 
 ## M3 - Agile & Scrum
