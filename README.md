@@ -461,6 +461,35 @@ Test Driven Development
 
 ### MongoDB in the Cloud IDE
 
+![image](https://github.com/user-attachments/assets/5ddc85b5-7293-41d4-b593-d26caefaddc0)
+
+
+### CRUD Operations
+![image](https://github.com/user-attachments/assets/4c27f65e-d410-4c81-bed0-279b7132fa45)
+
+#### Mongo Shell 
+![image](https://github.com/user-attachments/assets/76988618-7a28-4e8c-9208-493ba4166c29) *
+
+![image](https://github.com/user-attachments/assets/eb036a44-7bb2-42ce-8e48-e900cd80f238)
+
+#### CRUD
+ ![image](https://github.com/user-attachments/assets/c61d97f2-3988-4f59-b470-bc3241879d18)
+![image](https://github.com/user-attachments/assets/fc6021cc-43da-4245-a713-9e836c4c5d00)
+
+![image](https://github.com/user-attachments/assets/3baa1777-ec9a-4b36-8be4-b1c01d762096)
+![image](https://github.com/user-attachments/assets/a116c845-e5c0-4117-85b4-079d835541c5)
+![image](https://github.com/user-attachments/assets/7089a61c-57f7-4ad6-83e1-e001c4f1efe2)
+
+![image](https://github.com/user-attachments/assets/e47bcbc1-8848-4fca-917f-4a6a1147ff9f)
+![image](https://github.com/user-attachments/assets/362f0ecb-021b-479b-81bc-dd81ddbe6fb9)
+![image](https://github.com/user-attachments/assets/6c8d8057-aa49-4920-914d-046a7e85df94)
+
+![image](https://github.com/user-attachments/assets/ce90d324-fcfd-442d-bd2c-6103fc4922bc)
+
+
+
+
+
 
 
 
