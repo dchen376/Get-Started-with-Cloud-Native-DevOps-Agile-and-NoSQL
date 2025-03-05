@@ -401,13 +401,69 @@ Test Driven Development
 
 
 
-
-
-
-
-
 ## M4 - NoSQL Databases in Cloud
+![image](https://github.com/user-attachments/assets/3417ca9a-92ec-481f-bf5b-ee44722dc5b6)
+
 ### NoSQL and MongoDB
+#### Overview of NoSQL
+![image](https://github.com/user-attachments/assets/0908285a-26bf-44fe-97fa-ac45835efaa9)
+![image](https://github.com/user-attachments/assets/8ad54c60-3c88-45d5-90be-cd42e4453cfa)
+![image](https://github.com/user-attachments/assets/4a49c7b2-40b9-41a1-9e42-56fee8e7b856)
+
+- history
+  ![image](https://github.com/user-attachments/assets/b49850c6-1a02-4dab-be4c-350e6e28fec8)
+![image](https://github.com/user-attachments/assets/26a1724f-fe00-4aad-af01-c21bf592566e)
+
+
+### Overview of MongoDB
+![image](https://github.com/user-attachments/assets/3e7412fa-573f-438a-89dc-8d63c586a7bf)
+![image](https://github.com/user-attachments/assets/d5c8052e-0795-42a2-a40c-cb98b28479b1)
+![image](https://github.com/user-attachments/assets/aad51029-318f-4179-ae67-c68419a8d53c)
+
+![image](https://github.com/user-attachments/assets/484aae78-dccd-4683-bf96-fc2ffb4eecba)
+
+![image](https://github.com/user-attachments/assets/67518b5c-e2f2-4cba-af70-5fbebfd07aae)
+
+![image](https://github.com/user-attachments/assets/85592a40-5ad6-4869-9891-45f5a9dca1f1)
+
+### Advantages of MongoDB
+![image](https://github.com/user-attachments/assets/f8cf945e-afe2-4481-b4c5-e250af6cb91a)
+
+- flexibility
+  ![image](https://github.com/user-attachments/assets/cb25cc8a-ab70-4961-ba5b-3d2b0d60186e)
+- code-first appraoch
+  ![image](https://github.com/user-attachments/assets/f78a7892-1902-4c76-9375-49551e70b9a4)
+- evolving schema
+ ![image](https://github.com/user-attachments/assets/558f55f3-a4ac-4922-80cb-9df7bc8431eb)
+- unstructured data
+  ![image](https://github.com/user-attachments/assets/e497d7ca-5288-4174-8625-c7b61706f724)
+- querying and analyticcs
+  ![image](https://github.com/user-attachments/assets/51fc8cef-bc30-4a9a-81db-b2d78bb3581d)
+- high availability
+  ![image](https://github.com/user-attachments/assets/3cad45f4-1cc3-4b46-92b9-6bc779db1aec)
+
+![image](https://github.com/user-attachments/assets/4db5ffa7-98ff-4ad9-adfc-9e6f0875a834)
+
+
+### Use Cases for MongoDB
+![image](https://github.com/user-attachments/assets/7baa25df-519d-441c-b5d2-9c70428d3dd6)
+![image](https://github.com/user-attachments/assets/1b685ba0-c528-445f-ab2e-fe214c8f30b2)
+
+- examples *
+![image](https://github.com/user-attachments/assets/a6ec8569-0356-4179-9ba9-d72672d0e33e)
+![image](https://github.com/user-attachments/assets/96c14035-9034-46ec-aaf3-47f524268cc9)
+![image](https://github.com/user-attachments/assets/9b83d62a-6c6c-4575-882b-18be51455c69)
+![image](https://github.com/user-attachments/assets/d1e13c97-cddd-4c84-bcdd-bd32291cf9b8)
+![image](https://github.com/user-attachments/assets/475f6455-f625-42e7-897f-84cb3a608ee0)
+![image](https://github.com/user-attachments/assets/0015b750-70f6-4067-a12d-aab66d24e653)
+
+![image](https://github.com/user-attachments/assets/27f66c36-9ee7-459d-8000-3a4947ee8645)
+
+### MongoDB in the Cloud IDE
+
+
+
+
 
 ### Cloudant 
 
