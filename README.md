@@ -348,7 +348,24 @@ Test Driven Development
 - velocity *
 ![image](https://github.com/user-attachments/assets/e291f370-55d3-475c-9210-6961c3089c70)
 
--milestone *
+- milestone
+  ![image](https://github.com/user-attachments/assets/16654369-70e2-4137-9c65-b38c6c0921d9)
+![image](https://github.com/user-attachments/assets/1a5b278a-569e-49ce-a274-9181cad48c25)
+
+- ZenHub kanban board *
+  ![image](https://github.com/user-attachments/assets/e6c6a769-8b6d-4bd6-8cae-5f3d3adc06ad)
+![image](https://github.com/user-attachments/assets/17513a98-cdca-4847-8e58-c413689a3d5a)
+![image](https://github.com/user-attachments/assets/74be9120-6e9d-474a-ad68-30bb74fdd559)
+#### Spring acutal Planning
+![image](https://github.com/user-attachments/assets/73ef8e71-74ea-41b2-98ff-0c8319cec5c2)
+![image](https://github.com/user-attachments/assets/6a420013-cb4e-4d1e-810f-03b5c47928cf)
+![image](https://github.com/user-attachments/assets/90f4ca2f-fa96-4f43-9445-145cfaf46ca1)
+![image](https://github.com/user-attachments/assets/170fa1ee-a29b-4644-a494-22e476235bad)
+(hit max velocity -> x18 story pts for example)
+
+![image](https://github.com/user-attachments/assets/32c0d953-fe1d-4417-b099-84ecfa75240d) *
+
+
 
 
 
