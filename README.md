@@ -332,7 +332,23 @@ Test Driven Development
 ![image](https://github.com/user-attachments/assets/18bd013a-722f-4985-acdf-adc1068f76bd)
 
 
+### Sprint Planning
+![image](https://github.com/user-attachments/assets/143c433f-e223-4b27-8de3-c1c675a3c26e)
+![image](https://github.com/user-attachments/assets/0ac29a15-1b46-487b-a531-a6bbf4ca6580)
 
+- sprint planning meeting
+![image](https://github.com/user-attachments/assets/951d7eec-2b19-4190-8d01-4e651e3f277a)
+
+- goals
+  ![image](https://github.com/user-attachments/assets/b040ecbe-aa05-47d4-b67b-7b91922b6a91)
+
+- mechanics
+![image](https://github.com/user-attachments/assets/eea8cb22-b2ea-4d0c-a60a-805c20d7fd0f)
+
+- velocity *
+![image](https://github.com/user-attachments/assets/e291f370-55d3-475c-9210-6961c3089c70)
+
+-milestone *
 
 
 
