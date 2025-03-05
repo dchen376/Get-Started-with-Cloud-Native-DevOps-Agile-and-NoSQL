@@ -366,6 +366,15 @@ Test Driven Development
 ![image](https://github.com/user-attachments/assets/32c0d953-fe1d-4417-b099-84ecfa75240d) *
 
 
+### The Sprint Review
+![image](https://github.com/user-attachments/assets/7206c6f9-4ae8-4d62-add7-ab4e19cbb991)
+![image](https://github.com/user-attachments/assets/20ddee8f-7d00-4fcd-89e0-3b4fd4e96ba5)
+
+- sprint review meeting
+![image](https://github.com/user-attachments/assets/0dedf89e-3fad-4b59-895a-fec49b093d71)
+  - feedback
+    ![image](https://github.com/user-attachments/assets/fe619468-85d2-4ae8-b283-3209edbca6e9)
+
 
 
 
