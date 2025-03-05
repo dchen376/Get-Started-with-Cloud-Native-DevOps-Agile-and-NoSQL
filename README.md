@@ -370,10 +370,33 @@ Test Driven Development
 ![image](https://github.com/user-attachments/assets/7206c6f9-4ae8-4d62-add7-ab4e19cbb991)
 ![image](https://github.com/user-attachments/assets/20ddee8f-7d00-4fcd-89e0-3b4fd4e96ba5)
 
-- sprint review meeting
+- sprint review meeting*
 ![image](https://github.com/user-attachments/assets/0dedf89e-3fad-4b59-895a-fec49b093d71)
   - feedback
-    ![image](https://github.com/user-attachments/assets/fe619468-85d2-4ae8-b283-3209edbca6e9)
+    ![image](https://github.com/user-attachments/assets/fe619468-85d2-4ae8-b283-3209edbca6e9) * iterative development
+  - rejected stories *
+    ![image](https://github.com/user-attachments/assets/9fbff11d-d717-4400-aa52-a20c1a916735)
+
+![image](https://github.com/user-attachments/assets/c12ae81a-36ee-4a66-a1de-7efe3288505b)
+
+
+
+### The Sprint Retrospective
+![image](https://github.com/user-attachments/assets/85c7ed72-3949-46af-9d39-757018efaddf)
+![image](https://github.com/user-attachments/assets/23a0827e-3212-4024-89e0-d066b6de1147) *
+
+- sprint retrospective meeting*
+![image](https://github.com/user-attachments/assets/add5dd6c-36e0-4dd4-b48d-842773db7f11)
+  (no product owner here; because want the development team to speak freely!) *
+  - reflection *
+  ![image](https://github.com/user-attachments/assets/16157111-1471-4e46-a6f4-d57b3da04d93)
+  - goal -> improvement *
+![image](https://github.com/user-attachments/assets/e117ac59-f02b-4633-9980-cc216d4f0f34)
+
+![image](https://github.com/user-attachments/assets/8d3e5369-d2c2-47b6-9118-27e6ac1f2df4)
+
+
+
 
 
 
